@@ -1,0 +1,13 @@
+/* CSS faylining ilk qismi */
+:root{
+  --bg:#0f1024; --bg2:#171a3a; --card:#1e2148;
+  --pri:#6d5efc; --ok:#27c498; --warn:#ffb020; --err:#ff5d6c;
+}
+
+body {
+  font-family: 'Segoe UI', system-ui, -apple-system, Roboto, sans-serif;
+  background: var(--bg);
+  color: #f3f4ff;
+}
+
+/* Qolgan CSS... */
